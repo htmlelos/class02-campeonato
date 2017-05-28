@@ -2,7 +2,7 @@
   "name": "projectreact",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "App.js",
   "scripts": {
     "start": "./node_modules/.bin/webpack-dev-server --content-base app/dist --inline --hot"
   },
